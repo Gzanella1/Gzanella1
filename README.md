@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá eu sou o Giovani Zanella 👋
 
 - 🌱 Atualmente estou aprendendo Java.
 - 💬 Pergunte-me sobre java, javaScript, HTML, CSS, MySQL e Angular.
