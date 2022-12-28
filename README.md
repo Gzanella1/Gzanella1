@@ -5,7 +5,6 @@
 - 📫 Como pode chegar até mim: giovanizanelladamaia123@gmail.com
 - 😄 Pronouns: Ele/Dele.
 - ⚡ Curiosidades: Gosto de aprender coisas novas e sempre aberto a desafios.
--->
 
 ##
 <div align="left">
