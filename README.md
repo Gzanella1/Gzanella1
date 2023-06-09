@@ -11,6 +11,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gzanella1)](https://github.com/Gzanella1/github-readme-stats)
 
 
+<div align="left">
+  <a href="https://github.com/Gzanella1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gzanella1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gzanella1&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+
 <br>
 <p align="left"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
