@@ -7,8 +7,7 @@
 - ⚡ Curiosidades: Gosto de aprender coisas novas e sempre aberto a desafios.
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gzanella1&show_icons=true&theme=radical)
 
 <div align="left">
   <a href="https://github.com/Gzanella1">
