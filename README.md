@@ -6,6 +6,8 @@
 - 😄 Pronome: Ele/Dele.
 - ⚡ Curiosidades: Gosto de aprender coisas novas e sempre aberto a desafios.
 ##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <div align="left">
   <a href="https://github.com/Gzanella1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gzanella1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
