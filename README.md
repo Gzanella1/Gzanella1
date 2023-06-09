@@ -6,10 +6,10 @@
 - 😄 Pronome: Ele/Dele.
 - ⚡ Curiosidades: Gosto de aprender coisas novas e sempre aberto a desafios.
 ##
-<div>
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gzanella1&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gzanella1&layout=compact&theme=radical)
-</div>
+
  
 <br>
 <p align="left"> 
