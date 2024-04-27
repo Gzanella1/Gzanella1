@@ -1,7 +1,7 @@
 g### Olá eu sou o Giovani Zanella 👋
 
 - 🌱 Atualmente estou aprendendo na força do odio C++ e java.
-- 💬 Não Pergunte-me sobre java, HTML, CSS, MySQL e Angular.
+- 💬 Não me pergunte sobre java, c++, HTML, CSS, MySQL e Angular.
 - 📫 Como pode chegar até mim: "De preferencia não chega em mim"
 - 😄 Pronome: Ele/Dele.
 - ⚡ Curiosidades: Gosto de aprender coisas novas e sempre aberto a desafios.
