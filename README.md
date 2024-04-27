@@ -1,4 +1,4 @@
-g### Olá eu sou o Giovani Zanella 👋
+Olá eu sou o Giovani Zanella 👋
 
 - 🌱 Atualmente estou aprendendo na força do odio C++ e java.
 - 💬 Não me pergunte sobre java, c++, HTML, CSS, MySQL e Angular.
