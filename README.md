@@ -32,4 +32,5 @@ Olá eu sou o Giovani Zanella 👋
   <a href="https://www.linkedin.com/in/giovani-zanella" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
+
 ![snake animation](https://github.com/<seu Gzanella1>/<seu Gzanella1>/blob/output/github-contribution-grid-snake2.svg)
