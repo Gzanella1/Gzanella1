@@ -34,6 +34,6 @@ Olá eu sou o Giovani Zanella 👋
 
 <div align="center">
   
-![Snake animation](https://github.com/hannaBanannaOF/hannaBanannaOF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gzanella1/Gzanella1/blob/output/github-contribution-grid-snake.svg)
   
 </div>
