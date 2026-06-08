@@ -1,8 +1,8 @@
 Olá eu sou o Giovani Zanella 👋
 
-- 🌱 Atualmente estou aprendendo na força do odio C++ e java.
-- 💬 Não me pergunte sobre java, c++, HTML, CSS, MySQL e Angular.
-- 📫 Como pode chegar até mim: "De preferencia não chega em mim"
+- 🌱 Atualmente estou aprendendo python, C++ e java.
+- 💬 Me pergunte sobre java, c++, HTML, CSS, MySQL e Angular.
+- 📫 Como pode chegar até mim: giovanizanelladamaia123@gmail.com
 - 😄 Pronome: Ele/Dele.
 - ⚡ Curiosidades: Gosto de aprender coisas novas e sempre aberto a desafios.
 ##
